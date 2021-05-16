@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Aravind
+- 👀 I’m interested in Football analytics to determine performance aspects of Arsenal
+- 🌱 I’m currently learning to webscrape from understat.com 
+- 📫 How to reach me through twitter @SerWindyStark
